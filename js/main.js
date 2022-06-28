@@ -52,3 +52,10 @@ const teamList = [
         img : 'wayne-barnett-founder-ceo.jpg',
     },
 ];
+
+const container = document.getElementById('cardContainer');
+
+for (let i = 0; i < teamList.length; i++) {
+    const currentMember = teamList [i];
+    console.log (`${currentMember.name} ${currentMember.role} ${currentMember.img}`);
+} 
