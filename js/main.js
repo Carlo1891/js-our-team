@@ -53,7 +53,7 @@ const teamList = [
     },
 ];
 
-const container = document.getElementById('cardContainer');
+const container = document.getElementById('team-container');
 
 for (let i = 0; i < teamList.length; i++) {
     const currentMember = teamList [i];
