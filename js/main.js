@@ -15,3 +15,40 @@
 // Consigli del giorno:
 // Ragioniamo come sempre a step. Prima la logica in italiano e poi traduciamo in codice.
 
+const teamList = [
+    {
+        name : 'Angela Caroll',
+        role : 'Chief Editor',
+        img : 'angela-caroll-chief-editor.jpg',
+    },
+
+    {
+        name : 'Angela Lopez',
+        role : 'Social Media Manager',
+        img : 'angela-lopez-social-media-manager.jpg',
+    },
+
+    {
+        name : 'Barbara Ramos',
+        role : 'Graphic Designer',
+        img : 'barbara-ramos-graphic-designer.jpg',
+    },
+
+    {
+        name : 'Scott Estrada',
+        role : 'Developer',
+        img : 'scott-estrada-developer.jpg',
+    },
+
+    {
+        name : 'Walter Gordon',
+        role : 'Office Manager',
+        img : 'walter-gordon-office-manager.jpg',
+    },
+
+    {
+        name : 'Wayne Barnett',
+        role : 'Founder & CEO',
+        img : 'wayne-barnett-founder-ceo.jpg',
+    },
+];
